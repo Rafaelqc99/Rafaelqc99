@@ -1,8 +1,8 @@
-📚 Programming Student
+📚 Programming Student;
 
-💻 Learning how to code
+💻 Learning Java, Javascript, HTML and CSS;
 
-🎵 🎮 Music and games enjoyer
+🎵 🎮 Music and games enjoyer;
 
 
 
