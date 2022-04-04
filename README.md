@@ -1,6 +1,6 @@
 📚 Programming Student;
 
-💻 Learning Java, Javascript, HTML and CSS;
+💻 Learning Java, Javascript, HTML and CSS3;
 
 🎵 🎮 Music and games enjoyer;
 
