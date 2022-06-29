@@ -1,4 +1,4 @@
-📚 Programming Student;
+📚 Programmer;
 
 💻 Learning Java, Javascript, HTML and CSS3;
 
