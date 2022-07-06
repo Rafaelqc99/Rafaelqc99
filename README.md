@@ -1,4 +1,4 @@
-📚 Programmer;
+📚 Junior Software Engineer;
 
 💻 Learning Java, Javascript, HTML and CSS3;
 
